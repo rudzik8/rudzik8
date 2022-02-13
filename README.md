@@ -2,5 +2,5 @@
 
 Links:
 - [My profile on the Minetest Forums](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=29814)
-- [My profile on OpenVK](https://openvk.su/mw)
+- [My OpenVK profile](https://openvk.su/mw)
 - [My YouTube channel](https://www.youtube.com/channel/UC8V79uChdpRa8Mzpuf2FVog)
